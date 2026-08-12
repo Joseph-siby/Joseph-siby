@@ -57,7 +57,7 @@ I enjoy working across the stack, from **database schema → backend APIs → fr
 
 Worked on **Saadhika MarketPlace**, a live back-office administration platform built with:
 
-`Next.js` · `TypeScript` · `ASP.NET Core` · `PostgreSQL`
+`React.js` · `TypeScript` · `ASP.NET Core` · `PostgreSQL`
 
 Highlights:
 
@@ -109,7 +109,7 @@ A real-time hand-gesture recognition system designed to assist non-verbal commun
 
 I regularly practice **Data Structures & Algorithms** and work through coding problems to improve problem-solving and interview readiness.
 
-🔗 [LeetCode Solutions](https://github.com/Joseph-siby/leetcode)
+🔗 [LeetCode Solutions](https://leetcode.com/u/josephsiby/)
 
 ---
 
