@@ -25,32 +25,29 @@ I enjoy working across the stack, from **database schema → backend APIs → fr
 ## 🛠️ Tech Stack
 
 ### Languages
-
-`Python` `JavaScript` `TypeScript` `Java` `C`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c" />
+</p>
 
 ### Frontend
-
-`React.js` `Next.js` `Angular` `HTML5` `CSS`
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css" />
+</p>
 
 ### Backend
-
-`ASP.NET Core` `FastAPI` `REST APIs` `Node.js`
-
-### Databases
-
-`PostgreSQL` `MongoDB` `SQL` `NoSQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs" />
+</p>
 
 ### AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
 
-`RAG` `LLM Integration` `LangChain` `Prompt Engineering`
-`TensorFlow` `NLP` `FAISS` `Chroma` `Semantic Search`
-
-### Engineering & Tools
-
-`Data Structures & Algorithms` `OOP` `Git` `GitHub`
-`Postman` `Docker` `Unit Testing` `Integration Testing`
-
----
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,postman,docker" />
+</p>
 
 ## 💼 Production Experience
 
